@@ -1,5 +1,8 @@
 # Low-Light-Image-Enhancement
 Low Light Image Enhancement using Deep Learning.
 
-[Link to LoL Dataset - Kaggle](https://www.kaggle.com/datasets/soumikrakshit/lol-dataset/)
+Training a deep learning model for enhancing low light images to bright images
+
+
+[Link to Dataset - Kaggle](https://www.kaggle.com/datasets/soumikrakshit/lol-dataset/)
 
